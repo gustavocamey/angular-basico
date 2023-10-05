@@ -1,2 +1,2 @@
 # angular-basico
-Curso de angular básico para Qaracter
+Curso de angular básico para Qaracter de sergio
